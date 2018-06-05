@@ -22,6 +22,6 @@ Bot script Query TeamSpeak solution filtrage connection client Anti-VPN, Anti-Pr
 
 * Commandes du Script : 
 
-`./start.sh start` 
-`./start.sh status`
-`./start.sh stop`
+`./menu.sh start` 
+`./menu.sh status`
+`./menu.sh stop`
