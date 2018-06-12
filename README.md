@@ -12,8 +12,8 @@ Bot script Query TeamSpeak solution filtrage connection client Anti-VPN, Anti-Pr
 
 * Installation du Package "unzip" -> `sudo apt-get install unzip`
 * Téléchargement du script -> `wget https://github.com/BadySmith/Bot-Query-TeamSpeak-PHP-AntiVPN-AntiProxy/archive/master.zip`
-* Décompréssion du dossier -> `unzip master.zip`
-* On suprime le zip -> `rm master.zip`
+* Décompréssion du dossier -> `unzip Bot-Query-TeamSpeak-PHP-AntiVPN-AntiProxy-master.zip`
+* On suprime le zip -> `rm Bot-Query-TeamSpeak-PHP-AntiVPN-AntiProxy-master.zip`
 * Mv -> `mv Bot-Query-TeamSpeak-PHP-AntiVPN-AntiProxy-master TSAnti-Proxy`
 * Direction le dossier de configueration -> `cd TSAnti-Proxy`
 * Autorisation de l'exécuté -> `chmod 777 *`
